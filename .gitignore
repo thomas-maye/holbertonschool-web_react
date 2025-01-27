@@ -5,3 +5,11 @@ main.js
 TypeScript/task_1/dist/
 TypeScript/task_1/.eslintrc.js
 TypeScript/task_2/.eslintrc.js
+TypeScript/task_3/js/crud.js
+TypeScript/task_3/.eslintrc.js
+TypeScript/task_3/package.json
+TypeScript/task_3/tsconfig.json
+TypeScript/task_3/webpack.config.js
+TypeScript/task_3/dist/bundle.js
+TypeScript/task_3/dist/index.html
+TypeScript/task_3/js/interface.js
