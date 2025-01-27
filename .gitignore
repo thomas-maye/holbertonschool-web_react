@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+main.js
+
+TypeScript/task_1/dist/
+TypeScript/task_1/.eslintrc.js
+TypeScript/task_2/.eslintrc.js
